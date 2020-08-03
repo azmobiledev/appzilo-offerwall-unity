@@ -65,6 +65,7 @@ The permissions [WRITE_EXTERNAL_STORAGE](https://developer.android.com/reference
 [PACKAGE_USAGE_STATS](https://developer.android.com/reference/android/Manifest.permission#PACKAGE_USAGE_STATS) are needed to you to add it manually in order to enable the screenshot function, which will help reduce potential spam and increase submission success rate
 
 ```
+// mandatory to unlock more screenshot tasks
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 ```
 
