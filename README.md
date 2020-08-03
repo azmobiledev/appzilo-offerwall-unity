@@ -2,6 +2,8 @@
 
 Our Plugin allows you to launch the Appzilo Offerwall as an activity on top of your application. Appzilo Unity Android Plugin is provided via Github containing unity_az_offerwall_sdk.unitypackage file. We currently only support for Android devices but iOS will be implemented in near future.
 
+Appzilo offerwall for Android support API 17 and above.
+
 
 ## Installation
 
