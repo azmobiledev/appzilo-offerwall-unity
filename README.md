@@ -76,7 +76,7 @@ The permissions [WRITE_EXTERNAL_STORAGE](https://developer.android.com/reference
 
 ```
 In order to do so, please go to File > Build Settings > Android > Player Settings > Publishing Settings > `Tick` Custom Main Manifest.
-AndroidManifest.xml will be appeared inside Project_path/Plugins/Android/. Adding above permissions will unlock tasks that needed for screenshot. 
+AndroidManifest.xml will be appeared inside Project_path/Plugins/Android/. Adding above permissions will unlock more tasks that needed for screenshot. 
 
 
 
