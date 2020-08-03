@@ -62,7 +62,7 @@ We also include the [FOREGROUND SERVICE](https://developer.android.com/guide/com
 ```
 
 The permissions [WRITE_EXTERNAL_STORAGE](https://developer.android.com/reference/android/Manifest.permission#WRITE_EXTERNAL_STORAGE), [SYSTEM_ALERT_WINDOW](https://developer.android.com/reference/android/Manifest.permission#SYSTEM_ALERT_WINDOW) and 
-[PACKAGE_USAGE_STATS](https://developer.android.com/reference/android/Manifest.permission#PACKAGE_USAGE_STATS) are needed to you to add it manually in order to enable the screenshot function, which will help reduce potential spam and increase submission success rate
+[PACKAGE_USAGE_STATS](https://developer.android.com/reference/android/Manifest.permission#PACKAGE_USAGE_STATS) are needed to add it manually in order to enable the screenshot function, which will help reduce potential spam and increase submission success rate
 
 ```
 // mandatory to unlock more screenshot tasks
